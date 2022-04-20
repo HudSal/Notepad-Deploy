@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Notepad-Deploy/static/css/main.d0dd4995.chunk.css",
+    "main.js": "/Notepad-Deploy/static/js/main.41cf8e86.chunk.js",
+    "main.js.map": "/Notepad-Deploy/static/js/main.41cf8e86.chunk.js.map",
+    "runtime-main.js": "/Notepad-Deploy/static/js/runtime-main.40c6c4f6.js",
+    "runtime-main.js.map": "/Notepad-Deploy/static/js/runtime-main.40c6c4f6.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Notepad-Deploy/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.0ab286e7.chunk.js": "/Notepad-Deploy/static/js/2.0ab286e7.chunk.js",
+    "static/js/2.0ab286e7.chunk.js.map": "/Notepad-Deploy/static/js/2.0ab286e7.chunk.js.map",
+    "static/js/3.d64ac7ca.chunk.js": "/Notepad-Deploy/static/js/3.d64ac7ca.chunk.js",
+    "static/js/3.d64ac7ca.chunk.js.map": "/Notepad-Deploy/static/js/3.d64ac7ca.chunk.js.map",
+    "index.html": "/Notepad-Deploy/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Notepad-Deploy/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.d0dd4995.chunk.css.map": "/Notepad-Deploy/static/css/main.d0dd4995.chunk.css.map",
+    "static/js/2.0ab286e7.chunk.js.LICENSE.txt": "/Notepad-Deploy/static/js/2.0ab286e7.chunk.js.LICENSE.txt",
+    "static/media/MyNote.bdfab8b0.png": "/Notepad-Deploy/static/media/MyNote.bdfab8b0.png",
+    "static/media/MyNote1.afad65b8.png": "/Notepad-Deploy/static/media/MyNote1.afad65b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40c6c4f6.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.0ab286e7.chunk.js",
+    "static/css/main.d0dd4995.chunk.css",
+    "static/js/main.41cf8e86.chunk.js"
+  ]
+}
