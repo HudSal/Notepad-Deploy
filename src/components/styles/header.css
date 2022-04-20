@@ -1,0 +1,40 @@
+.header-container{
+    background-color: #70c4c6;
+    padding: 0px 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    align-items:center;
+    color: #e7d1dd;
+    text-align: left;
+
+}
+.header-container h1{
+    cursor: pointer;
+    font-family: cursive;
+    margin-right:50rem;
+    font-size: 40px;
+    margin-left: 10px;
+
+}
+.header-container>button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+	font-weight: bold;
+    cursor: pointer;
+    background-color: #e7d1dd;
+    color: #c1829d;
+    border-color: #c1829d;
+    font-size:large;
+}
+.clearAllButton:hover{
+    background-color: #c1829d;
+    color: #e7d1dd;
+}
+.mylogo{  
+    height: 90px;
+    margin-left: 20px;
+    cursor: pointer;
+}

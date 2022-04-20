@@ -1,0 +1,30 @@
+.home-container{
+    padding: 10px 40px;
+    text-align: left;
+    color: #b7e4e5;
+    font-family: cursive;
+    background-color: #c1829d;
+    min-height: 40rem;
+}
+.home-container>h1{
+    padding: 0px 10px;
+    font-size: 38px;
+    padding-bottom: 20px;
+ 
+}
+
+.home-container>button{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+	font-weight: bold;
+    cursor: pointer;
+    background-color: #b7e4e5;
+    color: #c1829d;
+    border-color: #c1829d;
+    font-size:large;
+}
+.home-container>button:hover{
+    background-color:darkcyan;
+    color: #e7d1dd;
+}

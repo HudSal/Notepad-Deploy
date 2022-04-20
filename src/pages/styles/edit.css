@@ -1,0 +1,40 @@
+.edit-form{
+    padding: 20px;
+    padding: 10px 40px;
+    text-align: left;
+    color: #b7e4e5;
+    font-family: cursive;
+    background-color: #c1829d;
+    min-height: 40rem;
+}
+.edit-form h1 {
+    font-size: 32px;
+}
+.edit-form >label{
+   
+    font-weight: bold;
+    font-size: 22px;
+}
+.title-form {
+    padding: 10px;
+    margin-left: 40px;
+    background-color: #e7d1dd;
+    width:60%;
+    display:flex;
+}
+.btn-CreateNewNote{
+    padding: 10px 40px;
+    margin: 10px;
+    border-radius: 5px;
+	font-weight: bold;
+    cursor: pointer;
+    background-color: #b7e4e5;
+    color: #c1829d;
+    border-color: #c1829d;
+    font-size:large;
+    margin-left: 40px;
+}
+.btn-CreateNewNote:hover{
+    background-color:darkcyan;
+    color: #e7d1dd;
+}

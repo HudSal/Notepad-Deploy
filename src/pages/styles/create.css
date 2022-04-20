@@ -1,0 +1,18 @@
+.create-form{
+    padding: 20px;
+    padding: 10px 40px;
+    text-align: left;
+    color: #b7e4e5;
+    font-family: cursive;
+    background-color: #c1829d;
+    min-height: 40rem;
+}
+.create-form h1 {
+    
+    font-size: 32px;
+}
+.create-form >label{
+    
+    font-weight: bold;
+    font-size: 22px;
+}

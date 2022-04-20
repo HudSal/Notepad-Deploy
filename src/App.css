@@ -1,7 +1,15 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
-
+.myNotes{
+  height: 4rem;
+  width: 17.5rem;
+  background-color: #70c4c6;
+  float: left;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

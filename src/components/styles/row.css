@@ -1,0 +1,33 @@
+.row-container{
+    margin: 10px;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 2px solid darkcyan;
+    background-color: #e7d1dd;
+    font-weight: bold;
+    font-size: 20px;
+	color: darkcyan;
+}
+
+.row-notelist> span{
+    cursor: pointer;
+}
+.row-notelist> span:hover{
+    color: #c1829d;
+}
+.row-notelist>button{
+    float: right;
+    padding: 10px;
+	border-radius: 5px;
+    border-color: #c1829d;
+	font-weight: bold;
+    cursor: pointer;
+    background-color: #b7e4e5;
+    color: #c1829d;
+    font-size:large;  
+
+}
+.row-notelist>button:hover{
+    background-color: #c1829d;
+    color: #b7e4e5;
+}
